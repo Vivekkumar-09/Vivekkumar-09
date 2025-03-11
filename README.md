@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Springboot**
 
-- 💬 Ask me about **Java, DSA**
+- 💬 Ask me about **Java, Python, DSA**
 
 - 📫 How to reach me **vivek.singh@mitaoe.ac.in**
 
